@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=ZoneTrace%20BD%20Lab&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Founder%20|%20Xeasin%20Arafat&descAlignY=55&descAlign=50" />
+### 🔧 My Project - CodeTools BD
+I built a free collection of 15+ offline developer tools for Bangladeshi developers:
+**Live Link:** https://codetools-bd.netlify.app/
 
+- 100% Offline, Private & Free for everyone
 <h1 align="center">Hi, I'm Xeasin Arafat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <h3 align="center">🛡️ Ethical Hacker | Founder of ZoneTrace BD Lab 🇧🇩</h3>
