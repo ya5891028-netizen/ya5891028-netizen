@@ -6,7 +6,7 @@ I built a free collection of 15+ offline developer tools for Bangladeshi develop
 - 100% Offline, Private & Free for everyone
 <h1 align="center">Hi, I'm Xeasin Arafat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<h3 align="center">🛡️ Ethical Hacker | Founder of ZoneTrace BD Lab 🇧🇩</h3>
+<h3 align="center">🛡️ Ethical Hacker | Founder of MR Unknown 🇧🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Securing+Digital+Bangladesh...;Phishing+Detection+Researcher;Cyber+Awareness+Activist;Ethical+Hacking+%7C+Open+Source" />
@@ -15,7 +15,7 @@ I built a free collection of 15+ offline developer tools for Bangladeshi develop
 ---
 
 ### 👨‍💻 About Me
-> Founder of **ZoneTrace BD Lab** — A cyber security research lab from Bangladesh.
+> Founder of **MR Unknown** — A cyber security research lab from Bangladesh.
 > My mission is to make the internet safe for everyone in Bangladesh.
 
 - 🔍 Researching on: **Phishing, Social Engineering, OSINT**
